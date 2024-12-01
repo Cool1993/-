@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+src/config/config.py
+*.yaml
+*.log
+output/*
+.venv/
